@@ -1,0 +1,46 @@
+.i1 i {
+	transition: transform .5s;
+	margin: 0 auto;
+}
+
+.i1:hover i {
+transform: scale(1.35);
+}
+
+.i2 i {
+	transition: transform .5s;
+	margin: 0 auto;
+}
+
+.i2:hover i {
+transform: scale(1.35);
+}
+
+.i3 i {
+	transition: transform .5s;
+	margin: 0 auto;
+}
+
+.i3:hover i {
+transform: scale(1.35);
+}
+
+.iconColor {
+	color: #333333;
+}
+
+.subcat {
+	padding: 20px 0px 20px 0px;
+
+}
+
+.subtitle {
+	font-size: 25px;
+	padding-top: 20px;
+}
+
+.subcat .lead {
+	width: 300px;
+	line-height: normal;
+}
+
